@@ -1,1 +1,2 @@
-:)
+Foi Explicado oque é o git, O git é um sitema de versionamento, que é usado para trabalhos que precisam de equipes para cada area do projeto, e assim evitado erros, pois com uma 
+versão de testes; por exemplo, eles podem ser evitados. Imagine um arvore, a linha principal é o tronco, a parte completa e fluida do projeto, o git ajudar nessa questão. 
