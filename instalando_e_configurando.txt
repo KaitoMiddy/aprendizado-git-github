@@ -1,0 +1,3 @@
+A instalação é simples, se seu OS é linux o GIT vem nativo no seu sistema, porem se ele é windows será necessario mais tarefas a serem executadas, faça o dowload do GIT pelo link
+https://git-scm.com/downloads e baixe ele. a instalação é intuitiva e simplificada, apenas avançe. para utilizar o git, vai precisar de um terminal. o nativo do windows não é valido.
+vá na sua Microsoft store e pesquise e instale o ubunto, ou outo termina.

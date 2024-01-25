@@ -1,0 +1,5 @@
+CONECTANDO
+
+Tenha um conta no GitHub, logue nela e crie um tokien. voçê vai precisar. com isso feito voçê pode cria seu repositorio remoto no GitHub, e clonandoo ele na sua maquina.
+outra maneira é criando um repositorio local e depois subindo ele para o GitHub. Git init, bla bla bla.
+

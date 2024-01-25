@@ -1,0 +1,4 @@
+BRANCH:
+
+'Ramos', esse termo é bem similar a idea que o sistema de branch que pasar, branch é como uma ramificação do tronco principal, voçê tem os mesmos arquvios da linha principal.
+e pode modificalos sem alterar o orginal; adicionando, apagando ou modificando aquirvos. e se de sua escolha mesclando eles com a linha orginal.

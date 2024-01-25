@@ -1,0 +1,18 @@
+COMANDOS DE TERMINAL
+
+mkdir - cria um novo diretorio / pasta.
+touch - cria um novo arquivo. 
+cd - acessa pastas.
+ls - lista os arquivos e pastas em seu diretorio atual.
+rm - remove aquivos / pastas
+
+COMANDOS GIT
+
+Git - init : inicial um repositorio git em seu diretorio.
+Git - status : mostra a situção atual do repositorio, área de stage, arquivos modificiados, a serem commitados.
+Git - clone : clona um repositorio do servidor como GitHub.
+Git - pull : Busca sincronizar o conteúdo do repositorio remoto ou seu local.
+Git - add : colocar os aquivos não preparados, monitorados na área de preparação "stage".
+Git - push : Envia o conteúdodo seu repositorio local para o remoto como o GitHub.
+Git - commit : Registra alterações no repositorio git salvando uma mensagen de log junto coom um ID de commit.
+Git - checkout [branch] : passa de um branch para outra.
